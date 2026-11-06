@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.c-1,
+.c-2,
+.c-3{
+    background-color: rgb(231, 161, 161);
+    font-family: monospace;
+}
+#i-1{
+    color: lch(31.93% 127.28 305.66);
+    font-size: 35px;
+}
+#i-2{
+    background-color: lab(75.6% -75.25 72.08 / 0.69);
+   font-weight: bold;
+}
